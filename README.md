@@ -1,2 +1,4 @@
-# Apparel-identification-Using-Neural-Network-Final-Year-Project
-An apparel identification system built using convolutional neural networks to classify clothing items from images. Integrated with a fluid UI for real-time image upload and prediction display. Demonstrates deep learning application and intuitive design for fashion retail automation.
+# Apparel-Identification-using-Neural-Network
+ A machine learning approach towards classifying a particular product into its corresponding type through a fluid UI.
+ It helps users categorize and label products accurately.
+ Avoid errors in labelling a product as to what type it is.
